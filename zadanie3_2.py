@@ -15,5 +15,5 @@ def calculate(a,b,op):
 if __name__ == '__main__':
     c = calculate(1,2,'*')
     print(c)
-    d = calculate(10,200, '/')
+    d = calculate(10,0, '/')
     print(d)
